@@ -13,3 +13,4 @@ created a pipeline to check
 created an auto minutes and check
 will check again in a min
 executed successfully
+Added email notification
