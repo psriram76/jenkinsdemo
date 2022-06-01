@@ -9,3 +9,4 @@ WOW this has worked . Super
 Its cool now 
 enabled the build automatic one
 Testing it again
+created a pipeline to check
