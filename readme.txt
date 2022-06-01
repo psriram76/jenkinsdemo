@@ -10,3 +10,5 @@ Its cool now
 enabled the build automatic one
 Testing it again
 created a pipeline to check
+created an auto minutes and check
+will check again in a min
